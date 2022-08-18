@@ -1,3 +1,0 @@
-/home/tb_dev/Desktop/Base-Project-Structure/build/CMakeFiles/rebuild_cache.dir
-/home/tb_dev/Desktop/Base-Project-Structure/build/CMakeFiles/edit_cache.dir
-/home/tb_dev/Desktop/Base-Project-Structure/build/CMakeFiles/main.dir
