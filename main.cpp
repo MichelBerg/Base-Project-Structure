@@ -29,7 +29,7 @@ int main(int argc, char **argv)
     // Create and implement a class stored in src/include
 
     // Fourth Task
-    // Commit your code
+    // Commit your code :)
 
     return EXIT_SUCCESS;
 }
