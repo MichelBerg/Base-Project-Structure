@@ -9,5 +9,4 @@ include: contains all .h/.hpp files
 build: contains make files and the executable
 
 Todo:
-
-- Implement lib: directory in CMakeLists (recursive) this should be used for "own libraries"
+Implement lib: directory in CMakeLists (recursive) this should be used for "own libraries"
