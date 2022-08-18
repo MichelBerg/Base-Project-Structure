@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author your name (user@domain.com)
+ * @author your name (you@domain.com)
  * @brief main with doxygen :)
  * @version 0.1
  * @date 2022-08-18
