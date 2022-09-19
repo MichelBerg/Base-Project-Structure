@@ -2,7 +2,7 @@
 
 Currently depends on pigpio for GPIO access
 
-# Explaning the directory sructure
+# Explaning the directory structure
 
 src: contains all .cpp files
 include: contains all .h/.hpp files
